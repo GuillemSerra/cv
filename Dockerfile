@@ -1,0 +1,1 @@
+FROM vipintm/xelatex:latest
